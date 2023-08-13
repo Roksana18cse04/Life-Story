@@ -28,3 +28,7 @@ Education Qualificatioin :
         Subject		 :Science
         Division	 :Dhaka
 ------------------------------------------------
+
+Skills 			 :
+-----------------------------------------------
+Language: Java,C++,C,MySQL,HTML,CSS,JavaSCript,Python
