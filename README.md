@@ -78,12 +78,12 @@ Further details are available in the notebook itself.
 
 To include pictures in NetFilx Movie Data Analysis
 
-![Genre Popularity](images/5.png)
+![Genre Popularity](5.png)
 Most Of The Vote Average Of Movie In Netflix
-![Vote_Average](images/4.png)
+![Vote_Average](4.png)
 
 Specific Year Trend In Movie In Genre
-![Tread Year](images/8.png)
+![Tread Year](8.png)
 
 
 
